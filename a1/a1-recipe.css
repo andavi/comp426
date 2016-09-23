@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: rgb(221, 184, 56)
+}
+h1 {
+    text-align: center;
+}
+.header {
+    font-family: fantasy;
+    color: rgb(14, 63, 80);
+}
+.header:hover {
+    color: rgb(119, 63, 17);
+}
+.blue {
+    font-size: 115%;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(166, 211, 236);
+}
+.blue h3 {
+    text-align: center;
+    font-size: 125%;
+}
+.blue p {
+    font-family: fantasy;
+}
+#ingredients {
+    border-bottom: 1px solid black;
+}
+img {
+    transform: rotate(90deg);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+#finished p {
+    text-align: center;
+}
+footer {
+    text-align: right;
+    font-size: 85%;
+}
